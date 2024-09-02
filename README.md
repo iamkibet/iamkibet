@@ -4,7 +4,7 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Kibet! 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I am Dennis Kibet! 
 *Digital Craftsman (Developer / Programmer)*
 <br /> 
 
@@ -12,9 +12,9 @@
 <p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js,Laravel, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
 
 - ✨ Turning Ideas one code at a time:)
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://isolatdsolutions.tech/blog).
-- ❤ Contributing to Open Source.
+- 🌱 I’m currently mastering Laravel.
+- ✍ I write technical blogs, You can visit my blog site at [Isolated Solutions](https://isolatdsolutions.tech/blog).
+- ❤ Contributing to Open Source Projects.
 - 💻 Visit my [Portfolio](https://portfolio.isolatedsolutions.com) for more details about me.
 <!--End Intro-->
 
