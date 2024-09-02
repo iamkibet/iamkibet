@@ -9,7 +9,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js,Laravel, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, Laravel and the MERN stack. </p>
 
 - ✨ Turning Ideas one code at a time:)
 - 🌱 I’m currently mastering Laravel.
@@ -78,16 +78,6 @@
       <p align="center">
         <a href="https://github.com/iamkibet">
           <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamkibet&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/iamkibet/somesha">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=iamkibet&repo=Awesome-Dev-Portfolios&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
         </a>
       </p>
     </td>
