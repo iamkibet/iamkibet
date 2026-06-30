@@ -13,9 +13,9 @@
 
 - ✨ Turning Ideas one code at a time:)
 - 🌱 I’m currently mastering Laravel.
-- ✍ I write technical blogs, You can visit my blog site at [Isolated Solutions](https://isolatdsolutions.tech/blog).
+- ✍ I write technical blogs, You can visit my blog site at [Isolated Solutions]((https://www.isolatedsolutions.org/posts).
 - ❤ Contributing to Open Source Projects.
-- 💻 Visit my [Portfolio](https://portfolio.isolatedsolutions.com) for more details about me.
+- 💻 Visit my [Portfolio](https://portfolio.isolatedsolutions.org) for more details about me.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
@@ -45,7 +45,7 @@
   
 <h3 align="left">Latest Blog Posts</h3>
 <ul align="left">
-  <li><a href="https://isolatedsolutions.tech">🧙‍♂️19 Open-Source Tools You Should Bookmark Now🔖</a></li>
+  <li><a href="https://www.isolatedsolutions.org/posts">🧙‍♂️19 Open-Source Tools You Should Bookmark Now🔖</a></li>
   <li><a href="https://isolatedsolutions.tech">More tools coming soon</a></li>
   <li><a href="https://isolatedsolutions.tech">🚀Boost Your Dev Workflow with These Top Tools</a></li>
 </ul>
