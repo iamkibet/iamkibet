@@ -46,8 +46,8 @@
 <h3 align="left">Latest Blog Posts</h3>
 <ul align="left">
   <li><a href="https://www.isolatedsolutions.org/posts">🧙‍♂️19 Open-Source Tools You Should Bookmark Now🔖</a></li>
-  <li><a href="https://isolatedsolutions.tech">More tools coming soon</a></li>
-  <li><a href="https://isolatedsolutions.tech">🚀Boost Your Dev Workflow with These Top Tools</a></li>
+  <li><a href="https://isolatedsolutions.org">More tools coming soon</a></li>
+  <li><a href="https://isolatedsolutions.org">🚀Boost Your Dev Workflow with These Top Tools</a></li>
 </ul>
 <br />
 <br />
